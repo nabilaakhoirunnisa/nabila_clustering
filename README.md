@@ -1,4 +1,2 @@
-# Project Links
-
-- Google Sites: https://sites.google.com/global.ac.id/nabilakhoirunnisa
-- YouTube: https://youtu.be/gZUh150XFY4?si=jUowH5KWEa7qlqkP
+Google sites: https://sites.google.com/global.ac.id/nabilakhoirunnisa
+youtube: https://youtu.be/gZUhl50XFY4?si=jUowH5KWEa7qlqkP
